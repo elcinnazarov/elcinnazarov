@@ -22,8 +22,7 @@
 <div align="center">
   <h3>👨‍💻 Developer Profile</h3>
 </div>
-
-```java
+java
 public class ElcinNezerov {
     String role = "Junior Java Backend Developer";
     String passion = "Startups, AI, & Automation";
@@ -69,8 +68,7 @@ Markdown
 <div align="center">
   <h3>👨‍💻 Developer Profile</h3>
 </div>
-
-```java
+java
 public class ElcinNezerov {
     String role = "Junior Java Backend Developer";
     String passion = "Startups, AI, & Automation";
