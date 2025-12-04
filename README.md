@@ -1,18 +1,39 @@
+*Best for: Entrepreneurs, Pitching ideas, Clean UI, and Business focus.*
+**Key Features:** Gradient banners, soft rounded badges, plenty of whitespace.
+
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Elcin+Nezerov;Junior+Java+Backend+Developer;Building+Microservices+%26+Automation;Startup+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=200&section=header&text=Elcin%20Nezerov&fontSize=60&fontAlignY=40&desc=Architecting%20Next-Gen%20Java%20Systems&descAlignY=70&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <h3>💡 Transforming Ideas into Code</h3>
+  <p>
+    I specialize in blending <b>Enterprise Java</b> with <b>No-Code Automation (n8n)</b> to build rapid, scalable startup MVPs.
+  </p>
+  
+  <a href="mailto:elcinnezerov21@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Contact_Now-black?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+</div>
+
+<hr />
+
+<div align="center">
+  <h2>⚡ Tech Ecosystem</h2>
+  <img src="https://img.shields.io/badge/Java-Programming-red?style=plastic&logo=java" />
+  <img src="https://img.shields.io/badge/Spring_Security-Auth-green?style=plastic&logo=springsecurity" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=plastic&logo=postgresql" />
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6584?style=plastic&logo=n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-Integration-333?style=plastic&logo=openai" />
 </div>
 
 <br />
 
-```java
-public class ElcinNezerov {
-    String role = "Junior Java Backend Developer";
-    String focus = "Spring Boot Microservices & AI Automation";
-    String[] stack = {"Java", "n8n", "Docker", "Kubernetes"};
-    String email = "elcinnezerov21@gmail.com";
-}
-<div align="center"> <br /> <a href="https://www.linkedin.com/in/elcin-n%C9%99z%C9%99rov-340b13208/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" height="35" /></a> href="mailto:elcinnezerov21@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-Email_Me-EA4335%3Fstyle%3Dflat-square%26logo%3Dgmail%26">3Dgmail%26>3Dgmail%26>5"te</strong><strong>3"te </div>
-
-<br />
-
-<div align="center"> <h3>🛠️ Əsas Arsenal</h3> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Java_SE-ED8B00%3Fstyle%3Dflat-square%26logo%3Dflat-square%26logo%3Dopenjd" <img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dflat-square%26logo%3Dspring%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Hibernate_ORM-59666C%3Fstyle%3Dflat-square%26logo%3Dhibernate%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Microservices-Architecture-blue%3Fstyle%3Dflat-square" /> <br /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dflat-square%26logo%3Dkubernetes%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Redis-DC382D%3Fstyle%3Dflat-square%26logo%3Dredis%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/RabbitMQ-FF6600%3Fstyle%3Dflat-square%26logo%3Drabbitmq%26logoColor%3Dwhite" /> </div>
+<table align="center">
+  <tr>
+    <td align="center"><b>🏦 Bank System</b></td>
+    <td align="center"><b>🏗️ Construction ERP</b></td>
+    <td align="center"><b>🤖 AI Try-On</b></td>
+  </tr>
+</table>
